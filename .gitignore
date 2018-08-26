@@ -3,7 +3,4 @@ README.md
 node_modules/*
 .DS_Store
 LICENSE
-!*.min.*
-*.css
-*.js
 !vendor/**
