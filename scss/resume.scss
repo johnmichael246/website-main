@@ -22,6 +22,14 @@
     h1 { text-align: center;}
     .info { text-align: center;}
 }
+
+@media screen and (max-width:400px) {
+    .review-btn-layout {
+        .btn {
+            padding: 5px 0px;
+        }
+    }
+}
 .btn-primary {
   background-color: $primary;
   border-color: $primary;

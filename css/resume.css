@@ -473,6 +473,12 @@ a:hover, a:focus, a:active {
   }
 }
 
+@media screen and (max-width: 400px) {
+  .review-btn-layout .btn {
+    padding: 5px 0px;
+  }
+}
+
 .btn-primary {
   background-color: #3A539B;
   border-color: #3A539B;
